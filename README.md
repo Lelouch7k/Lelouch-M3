@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://images4.alphacoders.com/738/73806.jpg" alt="nz" width="350"/>
+<img src="https://images4.alphacoders.com/738/73806.jpg" alt="nz" width="1080"/>
 </p>
 
-## Gojo-Satoru
+## Lelouch
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
