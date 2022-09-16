@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['905347856051']
+global.premium = ['905347856051']
+global.ownernomer = '905347856051'
+global.ownername = '𝙻𝚎𝚕𝚘𝚞𝚌𝚑'
+global.botname = '𝙻𝚎𝚕𝚘𝚞𝚌𝚑'
+global.footer = '𝙻𝚎𝚕𝚘𝚞𝚌𝚑'
+global.ig = 'https://github.com/Lelouch7k'
+global.region = 'Yemen, Sanaa, Fourty'
+global.sc = ''
+global.myweb = ''
+global.packname = '🃏..𝙻𝚎𝚕𝚘𝚞𝚌𝚑🖤'
+global.author = '꧁•⊹٭𝙻𝚎𝚕𝚘𝚞𝚌𝚑٭⊹•꧂'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    success: 'تم ✓',
+    admin: 'معليش للمشرفين فقط',
+    botAdmin: 'تستخدمنا قبل ماأصير مشرف احا',
+    owner: 'الخاصية فقط للمالك',
+    group: 'للمجموعات فقط',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'فقط للبوت',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1200 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
