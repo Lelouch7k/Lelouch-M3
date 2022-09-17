@@ -32,7 +32,7 @@ global.myweb = ''
 global.packname = '🃏..𝙻𝚎𝚕𝚘𝚞𝚌𝚑🖤'
 global.author = '꧁•⊹٭𝙻𝚎𝚕𝚘𝚞𝚌𝚑٭⊹•꧂'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🖤','🐤','🃏']
 global.sp = '⭔'
 global.mess = {
     success: 'تم ✓',
@@ -40,9 +40,9 @@ global.mess = {
     botAdmin: 'تستخدمنا قبل ماأصير مشرف احا',
     owner: 'الخاصية فقط للمالك',
     group: 'للمجموعات فقط',
-    private: 'Features Used Only For Private Chat!',
+    private: 'للخاص فقط',
     bot: 'فقط للبوت',
-    wait: 'Wait A minute...',
+    wait: '....انتظر ثواني',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1200 Hours',
 }
